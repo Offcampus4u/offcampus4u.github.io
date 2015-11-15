@@ -54,5 +54,6 @@
   },
   "_source": "git://github.com/tameraydin/ngToast.git",
   "_target": "~1.5.6",
-  "_originalSource": "ngtoast"
+  "_originalSource": "ngtoast",
+  "_direct": true
 }
